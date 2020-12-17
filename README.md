@@ -1,2 +1,2 @@
-# documents
+# publications
 publications, certifications
