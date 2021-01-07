@@ -1,2 +1,2 @@
 # publications
-publications, certifications
+publications
